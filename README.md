@@ -1,2 +1,1 @@
-# Login-page
-A normal login page developed in html and CSS.
+This my first frontend project about login page. 
